@@ -42,6 +42,14 @@ https://github.com/googlemaps/android-maps-utils<br>
 https://firebase.google.com/docs/database/flutter/read-and-write?hl=pt-br<br>
 https://developers.google.com/maps/documentation/places/web-service/search-nearby?hl=pt-br<br>
 
+https://developer.android.com/develop/ui/views/layout/immersive<br>
+https://github.com/Kotlin/kotlinx.coroutines/blob/master/kotlinx-coroutines-core/common/src/Delay.kt#L125<br>
+https://developer.android.com/guide/topics/resources/animation-resource?hl=pt-br<br>
+https://developer.android.com/guide/topics/graphics/drawable-animation?hl=pt-br<br>
+https://developer.android.com/guide/navigation/use-graph/conditional?hl=pt-br<br>
+https://developer.android.com/training/sign-in/passkeys?hl=pt-br<br>
+https://developer.android.com/guide/topics/ui/dialogs?hl=pt-br<br>
+
 
 ### Bibliotecas
 https://pub.dev/packages/home_widget<br>
