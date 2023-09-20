@@ -184,10 +184,9 @@ implementation 'com.google.android.gms:play-services-maps:18.1.0'<br>
 implementation 'androidx.camera:camera-core:1.2.2'<br>
 implementation 'com.squareup.picasso:picasso:2.71828'<br>
 implementation("com.google.maps.android:android-maps-utils:3.5.3")<br>
-<br>
-
 Gradle (project)<br>
 "com.google.gms.google-services" version "4.3.15"<br>
-
 Gradle (App)<br>
 "com.google.gms.google-services"<br>
+
+
