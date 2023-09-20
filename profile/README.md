@@ -8,8 +8,8 @@ https://apieuvounatrip.azurewebsites.net/<br>
 AIzaSyA_uVePxCqJaoSCcOummbrh5rM-hwp3WxQ<br>
 
 ### Firebase
-olimpiadassenai08@gmail.com
-OlimpiadasSenai08
+olimpiadassenai08@gmail.com <br>
+OlimpiadasSenai08 <br>
 
 ### AvatarAPI
 https://randomuser.me/
