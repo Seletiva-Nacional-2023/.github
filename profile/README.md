@@ -7,6 +7,10 @@ https://apieuvounatrip.azurewebsites.net/<br>
 ### Maps
 AIzaSyA_uVePxCqJaoSCcOummbrh5rM-hwp3WxQ<br>
 
+### Firebase
+olimpiadassenai08@gmail.com
+OlimpiadasSenai08
+
 ### AvatarAPI
 https://randomuser.me/
 
