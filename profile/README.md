@@ -3,6 +3,9 @@
 ## Link do Zoom
 https://zoom.us/j/94606497160
 
+## Link do Teams
+https://teams.microsoft.com/l/meetup-join/19:meeting_ODkzMWMwMGYtYzIxMi00YmQzLTk1YzItYTdlMDkyZDZmZDUz@thread.v2/0?context=%7B%22Tid%22:%226d6bcc3f-bda1-4f54-af1d-86d4b7d4e6b8%22,%22Oid%22:%22653d39c3-d3d5-4b24-bbb9-a4468292caf0%22%7D
+
 ## Links Permitidos
 ### API - EUVOUNATRIP
 https://apieuvounatrip.azurewebsites.net/<br>
