@@ -1,5 +1,8 @@
 # 08 - Desenvolvimento de Aplicativos Móveis 📱
 
+## Link do Zoom
+https://zoom.us/j/94606497160
+
 ## Links Permitidos
 ### API - EUVOUNATRIP
 https://apieuvounatrip.azurewebsites.net/<br>
