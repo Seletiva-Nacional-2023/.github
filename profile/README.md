@@ -44,6 +44,9 @@ https://m2.material.io/design/color/the-color-system.html#color-theme-creation<b
 https://github.com/googlemaps/android-maps-utils<br>
 https://firebase.google.com/docs/database/flutter/read-and-write?hl=pt-br<br>
 https://developers.google.com/maps/documentation/places/web-service/search-nearby?hl=pt-br<br>
+https://maps.googleapis.com/maps/api/geocode/json?latlng=-12.905939,-38.431193&key=CHAVE_API<br>
+https://maps.googleapis.com/maps/api/geocode/json?address=Rua+Niteroi&key=CHAVE_API<br>
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-23.5657344,-46.6538128&radius=1500&types=tourist_attraction&key=CHAVE_API<br>
 
 https://developer.android.com/develop/ui/views/layout/immersive<br>
 https://github.com/Kotlin/kotlinx.coroutines/blob/master/kotlinx-coroutines-core/common/src/Delay.kt#L125<br>
